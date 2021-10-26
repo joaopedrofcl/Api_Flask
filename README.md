@@ -1,2 +1,2 @@
 # Api_Flask
- Testes flask
+ Api criada para estudos em flask
