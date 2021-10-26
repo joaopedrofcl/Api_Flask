@@ -18,3 +18,5 @@ class server():
         self.app.run(
             debug=True
         )
+
+server = server()
