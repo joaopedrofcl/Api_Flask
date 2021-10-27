@@ -7,8 +7,8 @@ class server():
         self.api = Api(self.app,
             
             version='1.0',
-            title='API de Estudo em Flask',
-            description='API criada para estudo',
+            title='API de Digimon',
+            description='API criada para estudo que contém as informações dos principais digimons da franquia',
             doc='/docs'
 
         )
